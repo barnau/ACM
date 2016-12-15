@@ -1,0 +1,8 @@
+C:\dev\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.dll
+C:\dev\ACM\Acme.CommonTest\bin\Debug\Acme.CommonTest.pdb
+C:\dev\ACM\Acme.CommonTest\bin\Debug\Acme.Common.dll
+C:\dev\ACM\Acme.CommonTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\ACM\Acme.CommonTest\bin\Debug\Acme.Common.pdb
+C:\dev\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.csprojResolveAssemblyReference.cache
+C:\dev\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
+C:\dev\ACM\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb

@@ -1,0 +1,7 @@
+C:\dev\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\dev\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\dev\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\dev\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\dev\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\dev\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\dev\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
